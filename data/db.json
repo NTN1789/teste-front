@@ -1,0 +1,46 @@
+{
+  "elementos": [
+    {
+      "id": 1,
+      "title": "teste elemento",
+      "value": "8000"
+    },
+    {
+      "id": 2,
+      "title": "ELEMENTO algo",
+      "value": "$7000"
+    },
+    {
+      "id": 3,
+      "title": "ELEMENTO teste",
+      "value": "$5000"
+    },
+    {
+      "id": 4,
+      "title": "ELEMENTO 4",
+      "value": "$8000"
+    }
+  ],
+  "tarefas": [
+    {
+      "id": 1,
+      "title": "Tarefa 1",
+      "description": "Descrição da Tarefa 1"
+    },
+    {
+      "id": 2,
+      "title": "Tarefa 1",
+      "description": "Descrição da Tarefa 1"
+    },
+    {
+      "id": 3,
+      "title": "Tarefa 1",
+      "description": "Descrição da Tarefa 1"
+    },
+    {
+      "id": 4,
+      "title": "Tarefa 1",
+      "description": "Descrição da Tarefa 1"
+    }
+  ]
+}
