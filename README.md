@@ -40,7 +40,7 @@ $  npm install
 ```bash
 $ npm install
 ```
-  ## Depois de instalar tudo execute dentro da pasta do data :
+  ## Depois de instalar tudo execute dentro da pasta do data , o comando : 
 ```bash
 $ npm run start
 ```
