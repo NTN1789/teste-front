@@ -28,11 +28,14 @@ $  npm install
 
 ```
 
-
+* vai no data e usar npm install também para baixar o banco de dados e o server e depois só executar ele com : 
 ```bash
-vai no data e usar npm install também para baixar o banco de dados e o server e depois só executar ele com : 
+$ npm run start
+```
 
-$  npm run start
+* para executar o projeto na pasta vite-project
+```bash
+$  npm run dev
 ```
 
 
