@@ -36,7 +36,11 @@ vai na  pasta do vite-project é usar :
 $  npm install
 
 ```
-* vai na pasta do  data e usar npm install também para baixar o banco de dados e o server e depois só executar ele com : 
+* vai na pasta do  data e usar : 
+```bash
+$ npm install
+```
+  ## Depois de instalar tudo execute dentro da pasta do data :
 ```bash
 $ npm run start
 ```
