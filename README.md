@@ -14,6 +14,15 @@ Projeto FrontEnd
 * "react-dnd-html5-backend": "^16.0.1",
 *Typescript
 
+* na pasta data  não esquecer de baixar os recurso do db.json
+
+  ## por que eu usei o json-server ?
+  * renderizar algo mais rápido e salvar no servidor ;
+  *  foi prático para esse teste e poderia colocar um backend a mais  para receber os dados do servidor , assim salvando em um banco de dados relacional  e com uma api em  laravel , spring , php puro , nodejs ou nestjs.
+  *  foi bom também para pegar vários tipos de dados e manipular , faltou manipular os das tarefas
+     
+ 
+
 ## funcionalidade do projeto 
 ```
  editar campos da aplicação do calendário e esperar a requisição e ordenar a lista 
